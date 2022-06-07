@@ -1,4 +1,5 @@
 Securing DevOps's invoicer
+[![CircleCI](https://circleci.com/gh/yamaks2306/invoicer-chapter2/tree/master.svg?style=svg)](https://circleci.com/gh/yamaks2306/invoicer-chapter2/tree/master)
 ==========================
 
 A simple REST API that manages invoices.
